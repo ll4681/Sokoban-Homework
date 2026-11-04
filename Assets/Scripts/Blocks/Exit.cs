@@ -1,5 +1,10 @@
 using UnityEngine;
 
+
+
+//THIS IS A COMMENT FOR CLASS
+
+
 public class Exit : Block
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
