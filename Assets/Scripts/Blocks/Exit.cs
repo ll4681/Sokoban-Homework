@@ -10,7 +10,7 @@ public class Exit : Block
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        // HERE IS A COMMENT IN THE START FUNCTION
     }
 
     // Update is called once per frame
